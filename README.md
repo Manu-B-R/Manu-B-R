@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manu B R <br/><a href="https://www.linkedin.com/in/manubr1994/">Electronic Engineer-->Data Analyst</a>
+<h1></a>
 
 <h2>Profile:</h2>
 
