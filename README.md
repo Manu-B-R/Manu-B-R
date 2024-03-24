@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manu B R <br/><a href="https://www.linkedin.com/in/manubr1994/">Engineer-->Data Analyst</a>
+<h1>Hi, I'm Manu B R <br/><a href="https://www.linkedin.com/in/manubr1994/">Electronic Engineer-->Data Analyst</a>
 
 <h2>Profile:</h2>
 
@@ -35,3 +35,4 @@ Dynamic professional with a successful background in Repair Engineering transiti
 <br/><i>Quality Testing</i>: Adeptness in performing quality testing procedures to verify the performance and adherence to standards of electronic systems and components.
 <br/><i>AutoCAD Design of Cabling and Mechanical Components</i>: Proficiency in using AutoCAD for designing cabling layouts and mechanical components, demonstrating the ability to create precise and detailed designs for manufacturing and assembly.
 <br/>Overall, my skills showcase a comprehensive understanding of electronic system development, from design to testing, ensuring quality and reliability throughout the process.</a>
+
