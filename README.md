@@ -1,4 +1,4 @@
-<h1></a>
+<h1>![Neutral Creative Professional LinkedIn Article Cover Image (2)](https://github.com/Manu-B-R/Manu-B-R/assets/162290038/ee6934e7-2c9f-43fa-b85f-769b96419fd1)</a>
 
 <h2>Profile:</h2>
 
