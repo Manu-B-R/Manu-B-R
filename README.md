@@ -2,7 +2,7 @@
 
 <h2>Profile:</h2>
 
-Dynamic professional with a successful background in Repair Engineering transitioning to Data Analyst. With 4 years of experience in Electronics Manufacturing, I bring a solid foundation in design, debugging, and repair alongside a passion for data analysis, offering a unique perspective and proven adaptability.
+Dynamic professional with a successful background in Repair Engineering, transitioning to Data Analyst. With 4 years of experience in Electronics Manufacturing, I bring a solid foundation in design, debugging, and repair alongside a passion for data analysis, offering a unique perspective and proven adaptability.
 
 <h3>Skills:</h3>
 
