@@ -39,7 +39,7 @@ Dynamic professional with a successful background in Repair Engineering, transit
 
 <h3>Internship:</h3> 
 - <a href= "https://www.ybifoundation.org/#/home"><b> <i>YBI Foundations</i></b>
-  <h4>Projects:</h4> 
+<h4>Projects</h4> 
 - <a href= "https://github.com/Manu-B-R/Internship"><b> <i>Internship - Project & Workbooks </i></b>
   
 <h3>Certifications & Achievements:</h3> 
