@@ -37,6 +37,11 @@ Dynamic professional with a successful background in Repair Engineering, transit
 <br/>AutoCAD Design of Cabling and Mechanical Components: Proficiency in using AutoCAD for designing cabling layouts and mechanical components, demonstrating the ability to create precise and detailed designs for manufacturing and assembly.
 <br/>Overall, my skills showcase a comprehensive understanding of electronic system development, from design to testing, ensuring quality and reliability throughout the process.</a>
 
+<h3>Internship:</h3> 
+- <a href= "https://www.ybifoundation.org/#/home"><b> <i>YBI Foundations</i></b>
+  <h4>Projects:</h4> 
+- <a href= "https://github.com/Manu-B-R/Internship"><b> <i>Internship - Project & Workbooks </i></b>
+  
 <h3>Certifications & Achievements:</h3> 
 
 <h4>Data Analysis</h4>
