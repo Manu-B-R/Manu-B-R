@@ -18,6 +18,14 @@ Dynamic professional with a successful background in Repair Engineering, transit
  - <b>Masters in Computer Applications,</b> -<a href="https://www.jainuniversity.ac.in/"> <b><i>Jain University</a>,</b> Banglore - India</i>  </br><i><b>Data Analytics- </b>Present 2023 </i>
 - <b>Bachelor of Engineering,</b> (Electronics and Communication Engineering) -<a href= "https://ait-tumkur.ac.in/"> <b><i>Akshaya Institute of Technology</a>,</b> Tumakuru - India</i></a></br><i><b>Electronics and Communication Engineering- </b>2015 to 2019 </i>
 
+<h3>Internship:</h3> 
+
+- <a href= "https://www.ybifoundation.org/#/home"><b> <i>YBI Foundations</i></b>
+  
+<h4>Projects</h4>
+
+- <a href= "https://github.com/Manu-B-R/Internship"><b> <i>Internship - Project & Workbooks </i></b>
+
 <h3>Professional Experience:</h3>  
 
  - <b>Repair Technician</b>   -<a href= "https://flex.com/careers/hungary"><b> <i>Flextronics International KFT</a>, Zalaegerzeg - Hungary</i></b>, <br/><a><i>Current from 2023</i></a>  <br/>
@@ -37,14 +45,6 @@ Dynamic professional with a successful background in Repair Engineering, transit
 <br/>AutoCAD Design of Cabling and Mechanical Components: Proficiency in using AutoCAD for designing cabling layouts and mechanical components, demonstrating the ability to create precise and detailed designs for manufacturing and assembly.
 <br/>Overall, my skills showcase a comprehensive understanding of electronic system development, from design to testing, ensuring quality and reliability throughout the process.</a>
 
-<h3>Internship:</h3> 
-
-- <a href= "https://www.ybifoundation.org/#/home"><b> <i>YBI Foundations</i></b>
-  
-<h4>Projects</h4>
-
-- <a href= "https://github.com/Manu-B-R/Internship"><b> <i>Internship - Project & Workbooks </i></b>
-  
 <h3>Certifications & Achievements:</h3> 
 
 <h4>Data Analysis</h4>
