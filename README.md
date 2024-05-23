@@ -25,6 +25,10 @@ Dynamic professional with a successful background in Repair Engineering, transit
 <h4>Projects</h4>
 
 - <a href= "https://github.com/Manu-B-R/Internship"><b> <i>Internship - Project & Workbooks </i></b>
+<h4>Certificates</h4>
+
+- <a href= "https://www.linkedin.com/feed/update/urn:li:activity:7199161384801112064/"><b> <i>Data Analytics </i></b>
+- <a href= "https://www.linkedin.com/feed/update/urn:li:activity:7199059754592165889/"><b> <i>Advance Data Science and Artificial Intelligence </i></b>
 
 <h3>Professional Experience:</h3>  
 
