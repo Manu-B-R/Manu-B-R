@@ -4,14 +4,6 @@
 
 Dynamic professional with a successful background in Repair Engineering, transitioning to Data Analyst. With 5 years of experience in Electronics Manufacturing, I bring a solid foundation in design, debugging, and repair alongside a passion for data analysis, offering a unique perspective and proven adaptability.
 
-//<h3>Skills:</h3>
-
-  - <b>Interpersonal Skills</b> --> <i>Communication and Leader ship</i>
-- <b>Problem solving</b> --> <i>Research and Analytical thinking</i> 
-- <b>Programming skills</b> --> <i>SQL, Python</i>
-- <b>Database Management</b> --> <i>MySQL</i>
-- <b>Data Analysis Tools</b> --> <i>Pandas and NumPy</i>
-- <b>Data Visualization</b> --> <i>PowerBI and Tableau</i>//
 
 <h3>Education:</h3>
 
@@ -74,3 +66,12 @@ Dynamic professional with a successful background in Repair Engineering, transit
  
 - <a href= "https://www.udemy.com/certificate/UC-abd4dac9-dd9c-4a29-bb96-0e40e45ba16f/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"><b> <i>High-Speed Board Design Course System On Module(EsteemPCB)</i></b>
 - <a href= "https://www.udemy.com/certificate/UC-f0fc7609-fd27-4ab2-9029-b20940d455bb/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email"><b> <i>PCB Designing (with 3D Model) in Orcad 17.2 [2021]</i></b>
+
+<h3>Skills:</h3>
+
+  - <b>Interpersonal Skills</b> --> <i>Communication and Leader ship</i>
+- <b>Problem solving</b> --> <i>Research and Analytical thinking</i> 
+- <b>Programming skills</b> --> <i>SQL, Python</i>
+- <b>Database Management</b> --> <i>MySQL</i>
+- <b>Data Analysis Tools</b> --> <i>Pandas and NumPy</i>
+- <b>Data Visualization</b> --> <i>PowerBI and Tableau</i>
