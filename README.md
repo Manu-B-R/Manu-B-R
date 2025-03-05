@@ -24,7 +24,7 @@ Dynamic professional with a successful background in Repair Engineering, transit
 
 <h3>Professional Experience:</h3>  
 
- - <b>Repair Technician</b>   -<a href= "https://flex.com/careers/hungary"><b> <i>Flextronics International KFT</a>, Zalaegerzeg - Hungary</i></b>, <br/><a><i>Current from 2023</i></a>  <br/>
+ - <b>Repair Technician</b>   -<a href= "https://flex.com/careers/hungary"><b> <i>Flextronics International KFT</a>, Zalaegerzeg - Hungary</i></b>, <br/><a><i>From Jan 2023 to Jan 2025 </i></a>  <br/>
 <a>Experienced in identifying and resolving issues with Printed Circuit Board Assemblies (PCBAs) through meticulous debugging and troubleshooting techniques. Proficient in repairing and reworking PCBAs to ensure optimal functionality and performance. Capable of efficiently assembling and disassembling units as per technical specifications and requirements. Skilled in performing Ball Grid Array (BGA) replacement with precision and accuracy, contributing to the seamless operation of electronic systems.</a>
  
  - <b>Repair Engineer</b>  -<a href= "https://tvs-e.in/tumkur/"><b> <i>TVS Electronics</a>, Tumakuru - India</i></b> <br/> <a><i>From Jan 2022 to Dec 2022</i></a> <br/>
